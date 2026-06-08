@@ -22,11 +22,9 @@ This Chrome extension automatically pauses a YouTube video when you switch to an
 4. Click on the "Load unpacked" button and select the `my-chrome-extension` directory.
 
 ### From Chrome Web Store
-*(Once published)*
+Once published, the extension can be installed directly from the Chrome Web Store.
 
-1. Go to the Chrome Web Store.
-2. Search for "YouTube Pause on Tab Switch".
-3. Click "Add to Chrome".
+For detailed steps on packaging, store registration, asset sizes, and submitting the extension, refer to the [Chrome Web Store Publishing Guide](PUBLISHING.md).
 
 ## Usage
 1. After installation, open any YouTube video and start playing it.
@@ -36,20 +34,27 @@ This Chrome extension automatically pauses a YouTube video when you switch to an
 ## Development
 ### Project Structure
 
-```my-chrome-extension/
+```text
+YouTube-Pause-Extension/
 ├── manifest.json
 ├── background.js
-└── content.js
+├── content.js
+├── README.md
+├── PUBLISHING.md
+└── images/
+    ├── icon16.png
+    ├── icon48.png
+    └── icon128.png
 ```
 
 ### manifest.json
-Defines the permissions and files used in the extension.
+Defines the extension permissions, metadata, and files used in the extension.
 
 ### background.js
-Handles tab activation and updates to send appropriate messages to the content script.
+Handles tab activation and page updates to toggle play/pause status of YouTube video players.
 
 ### content.js
-Listens for messages from the background script and pauses or plays the video accordingly.
+Receives message triggers from the background script to dynamically play or pause local videos.
 
 ## Contributing
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
