@@ -22,9 +22,9 @@ Never miss a moment of your favorite podcasts, tutorials, or music videos while 
 ## 📦 Installation
 
 ### From Chrome Web Store
-Once the extension is published to the Chrome Web Store:
-1. Search for **"YouTube Pause on Tab Switch"**.
-2. Click **Add to Chrome**.
+You can install the extension directly from the official store listing:
+
+👉 **[YouTube Pause on Tab Switch on Chrome Web Store](https://chromewebstore.google.com/detail/youtube-pause-on-tab-swit/cmdndknhgabpknljbncefpockcjpmihh?authuser=0&hl=en-GB)**
 
 > [!NOTE]
 > For instructions on publishing your own version of this extension, see the [Chrome Web Store Publishing Guide](PUBLISHING.md).
