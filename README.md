@@ -26,8 +26,7 @@ You can install the extension directly from the official store listing:
 
 👉 **[YouTube Pause on Tab Switch on Chrome Web Store](https://chromewebstore.google.com/detail/youtube-pause-on-tab-swit/cmdndknhgabpknljbncefpockcjpmihh?authuser=0&hl=en-GB)**
 
-> [!NOTE]
-> For instructions on publishing your own version of this extension, see the [Chrome Web Store Publishing Guide](PUBLISHING.md).
+
 
 ### Load from Source (Developer Mode)
 To run this extension locally or test custom modifications:
@@ -75,7 +74,6 @@ YouTube-Pause-Extension/
 ├── content.js          # Injected scripts to query and toggle video element
 ├── LICENSE             # Open-source MIT License
 ├── README.md           # Documentation and overview
-├── PUBLISHING.md       # Step-by-step Chrome Web Store publishing guide
 └── images/             # Extension logo icons
     ├── icon16.png
     ├── icon48.png
