@@ -2,13 +2,13 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available-blue.svg)](https://chromewebstore.google.com/detail/youtube-pause-on-tab-swit/cmdndknhgabpknljbncefpockcjpmihh?authuser=0&hl=en-GB)
-[![Privacy Policy](https://img.shields.io/badge/Privacy_Policy-Zero_Data_Collection-success.svg)](https://fineanmol.github.io/youtube-pause-privacy-policy.html)
+[![Privacy Policy](https://img.shields.io/badge/Privacy_Policy-Zero_Data_Collection-success.svg)](https://fineanmol.github.io/YouTube-Pause-on-Tab-Switch/privacy.html)
 
 A lightweight, seamless Google Chrome extension that automatically manages YouTube playback based on your tab focus. It automatically pauses active YouTube videos the moment you switch to another tab or minimize your browser, and instantly resumes playback when you switch back. 
 
 Never miss a moment of your favorite podcasts, tutorials, or music videos while multitasking!
 
-🔒 **[Read Our Privacy Policy](https://fineanmol.github.io/youtube-pause-privacy-policy.html)**
+🔒 **[Read Our Privacy Policy](https://fineanmol.github.io/YouTube-Pause-on-Tab-Switch/privacy.html)**
 
 ---
 
@@ -96,7 +96,7 @@ YouTube-Pause-Extension/
 This extension is built with a strict privacy-first architecture:
 - **Zero Data Collection**: No information is ever collected, stored, or transmitted to any remote servers.
 - **Local Execution**: All logic runs locally on your device within the browser sandbox.
-- **📑 [Read the Full Privacy Policy](https://fineanmol.github.io/youtube-pause-privacy-policy.html)**
+- **📑 [Read the Full Privacy Policy](https://fineanmol.github.io/YouTube-Pause-on-Tab-Switch/privacy.html)**
 
 ---
 
